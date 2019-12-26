@@ -16,3 +16,7 @@ table {
   border-width: 1px;
   text-align: center;
 }
+
+#teamRoster, ul {
+  list-style-type: square;
+}
